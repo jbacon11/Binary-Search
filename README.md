@@ -1,5 +1,5 @@
 # Binary Search
- python program that uses the binary search program 
+ python program that uses the binary search algorithm 
 
 Binargy search is a divide and conquer algorithim that searches through an ordered list faster rather than scanning every element in a list.
 Let's search an order list of values sorted from least to greatest. We first look at the middle index. If our search item is equal return the the index of element.
